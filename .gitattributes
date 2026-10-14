@@ -1,0 +1,3 @@
+/.openai export-ignore
+/infra/terraform export-ignore
+/site-bundle.zip export-ignore
